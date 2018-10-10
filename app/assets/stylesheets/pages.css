@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Mali');
+body{
+	font-family: 'Mali', cursive, bold; 
+	background: #0080FF;
+}
+.container
+{
+	background: #FFFF;
+	width: 600px;
+	height: 600px;
+	border: 1px solid #600;
+	margin: 0 auto;
+	border-radius: 5px;
+	padding: 10px;
+	text-align: center;
+}
+.container_h1
+{
+	font-size: 30px;
+	text-align: center;
+}
+
+/* Comentario*/
